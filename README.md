@@ -24,11 +24,7 @@ Teacher Evaluation Assistant is a comprehensive software solution designed to st
    - Generate detailed reports on student performance, assessment results, and attendance records.
    - Export reports in various formats such as PDF for easy sharing and printing.
 
-6. **User Authentication and Authorization:**
-   - Secure login system with role-based access control.
-   - Different user roles such as administrators, teachers, and students with appropriate permissions.
-
-7. **User-friendly Interface:**
+6. **User-friendly Interface:**
    - Intuitive and easy-to-use interface for seamless navigation.
    - Responsive design to ensure compatibility across devices and screen sizes.
 
@@ -43,7 +39,6 @@ Teacher Evaluation Assistant is a comprehensive software solution designed to st
 
 3. **Running the Application:**
    - Build and run the application using Visual Studio or your preferred IDE.
-   - Login with appropriate credentials to access the system.
 
 ## Technologies Used:
 - C#/.NET Framework
