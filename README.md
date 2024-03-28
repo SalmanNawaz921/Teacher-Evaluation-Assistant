@@ -34,7 +34,7 @@ Teacher Evaluation Assistant is a comprehensive software solution designed to st
 
 ## Installation:
 1. **Prerequisites:**
-   - Install .NET Framework (version X.X or higher).
+   - Install .NET Framework (version 4.7 or higher).
    - Ensure SQL Server is installed and running.
 
 2. **Database Setup:**
